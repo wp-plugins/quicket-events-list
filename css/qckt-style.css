@@ -1,0 +1,73 @@
+.qckt-event-thumb{
+    width: 23%;
+    float: left;
+    padding: 1%;
+    text-align: center;
+}
+.qckt-event-content{
+    width: 72%;
+    float: right;
+    padding: 1% 0 1% 2%;
+}
+
+.qckt-clear{
+    clear: both;
+}
+
+.qckt-padding{
+    padding-right: 1%;
+}
+.qckt-event-thumb img{
+    vertical-align: top;
+}
+
+.qckt-footer{
+    font-size: 10px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.qckt-footer .qckt-logo{
+    max-width: 50px;
+}
+
+/* Pagination
+----------------------- */
+
+.qckt_pagination {
+    clear:both;
+    padding:20px 0;
+    position:relative;
+    font-size:11px;
+    line-height:13px;
+}
+ 
+.qckt_pagination span, .qckt_pagination a {
+    display:block;
+    float:left;
+    margin: 2px -1px 2px 0;
+    padding:11px 14px 10px 14px;
+    text-decoration:none;
+    width:auto;
+    color:#949494;
+    background: #FFF;
+    border: 1px solid #DBDCD7;
+    font-size: 120%;
+}
+ 
+.qckt_pagination a:hover{
+    color:#fff;
+    background: #6DC714;
+    border: 1px solid #6DC714;
+}
+
+.qckt_pagination a:focus{
+    outline: none;
+}
+ 
+.qckt_pagination .current{
+    padding:11px 14px 10px 14px;
+    background: #6DC714;
+    color:#fff;
+    border: 1px solid #6DC714;
+}
