@@ -4,7 +4,7 @@
  * Plugin URI: 
  * Company: 
  * Description: Wordpress plugin for Quicket API
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author:
  * Author URI: 
  * License: GPL2
