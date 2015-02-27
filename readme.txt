@@ -66,3 +66,6 @@ Earn money by promoting Quicket events or getting new events listed on Quicket. 
 
 ### 1.0.0 ###
 * Initial version
+
+### 1.0.1 ###
+* Fixed broken "powered by" image
