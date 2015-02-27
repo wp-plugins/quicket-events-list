@@ -326,7 +326,7 @@ class Quicket_Widget extends WP_Widget {
 
 						<div class="qckt-clear"></div>
 
-						<div class="qckt-footer">Powered by <img class="qckt-logo" src="<?php echo WP_PLUGIN_URL . '/quicket-api/images/logo.png'; ?>" alt="" /></div>
+						<div class="qckt-footer">Powered by <img class="qckt-logo" src="<?php echo plugins_url( 'images/logo.png', __FILE__ ); ?>" alt="Quicket logo" /></div>
 
 					</div><!-- #quicket-events-wrap -->
 
